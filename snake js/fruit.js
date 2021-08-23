@@ -30,11 +30,3 @@ class fruit {
         this.ctx.stroke();
     }
 }
-
-/* si snake mange fruit ( snakex = fruitx ou snakeY = fruitY)
-alors fruit disparait
-(randomX + randomY) resultat = nouvelle position fruit
-fillrect ( this.randomx, this.randomY)
-showFruit
-fin
-*/
