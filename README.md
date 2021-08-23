@@ -2,4 +2,4 @@
 Snake JS
 
 Projet perso en cours <br />
-<img src="../snake js/Snake.jpeg"/>
+<img src="https://github.com/Lowriider/Snake/blob/main/snake%20js/Snake.jpg?raw=true"/>
